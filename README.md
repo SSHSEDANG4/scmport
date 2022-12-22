@@ -5,7 +5,7 @@
 <pre><code>apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot</code></pre>
 
 # SCRIPT
-<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/SSHSEDANG4/multiws/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
+<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q setup.sh 'https://www.dropbox.com/s/dlss5dr0kk6hypa/setup.sh?dl=1' && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
 # SERVICE
 [![Hits](https://img.shields.io/badge/SSH-WEBSOCKET-RED?style=for-the-badge&logo=cloudflare)](https://github.com/SSHSEDANG4)
