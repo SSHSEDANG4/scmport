@@ -1,5 +1,5 @@
 # SCMPORT - SSH / SSL / XRAY / DNSTT / OPENVPN V.1.0
-- Autoscript VPN
+- AUTOSCRIPT VPN
 
 # UPDATE
 <pre><code>apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot</code></pre>
