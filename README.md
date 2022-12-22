@@ -57,7 +57,7 @@
 - Always Use HTTPS : OFF<br>
 - UNDER ATTACK MODE : OFF<br>
 
-# Server Features :
+# SERVER FEATURES :
 - Multi Path & Support Dynamic Path
 - XrayDNS 2022
 - Timezone Asia/Jakarta (GMT +7)
